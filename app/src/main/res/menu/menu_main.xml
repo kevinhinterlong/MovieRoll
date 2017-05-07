@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.hinterlong.kevin.cs126.movieinfoparser.view.MainActivity">
+    <item
+        android:id="@+id/action_libraries"
+        android:orderInCategory="100"
+        android:title="@string/action_libraries"
+        app:showAsAction="never"/>
+</menu>
